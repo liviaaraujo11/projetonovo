@@ -1,0 +1,12 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Ortodoxia",
+      "author": "G.K Chesterton",
+      "price": "R$ 39,90",
+      "image": "imagens/livro1.png",
+      "buyLink": "descricao.html"
+    }
+  ]
+}
